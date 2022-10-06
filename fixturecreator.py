@@ -17,7 +17,7 @@ for country in country_obj:
 	new_country_obj.append(
 	{
 		"model": "geodata.Country",
-		"pk": count+1,
+		"pk": country_obj[count]["id"],
 		"fields": {
 			"name": country_obj[count]["name"],
 			"iso3": country_obj[count]["iso3"],

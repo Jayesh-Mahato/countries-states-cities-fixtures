@@ -289,7 +289,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 17,
+        "pk": 18,
         "fields": {
             "name": "Bahrain",
             "iso3": "BHR",
@@ -307,7 +307,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 18,
+        "pk": 19,
         "fields": {
             "name": "Bangladesh",
             "iso3": "BGD",
@@ -325,7 +325,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 19,
+        "pk": 20,
         "fields": {
             "name": "Barbados",
             "iso3": "BRB",
@@ -343,7 +343,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 20,
+        "pk": 21,
         "fields": {
             "name": "Belarus",
             "iso3": "BLR",
@@ -361,7 +361,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 21,
+        "pk": 22,
         "fields": {
             "name": "Belgium",
             "iso3": "BEL",
@@ -379,7 +379,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 22,
+        "pk": 23,
         "fields": {
             "name": "Belize",
             "iso3": "BLZ",
@@ -397,7 +397,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 23,
+        "pk": 24,
         "fields": {
             "name": "Benin",
             "iso3": "BEN",
@@ -415,7 +415,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 24,
+        "pk": 25,
         "fields": {
             "name": "Bermuda",
             "iso3": "BMU",
@@ -433,7 +433,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 25,
+        "pk": 26,
         "fields": {
             "name": "Bhutan",
             "iso3": "BTN",
@@ -451,7 +451,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 26,
+        "pk": 27,
         "fields": {
             "name": "Bolivia",
             "iso3": "BOL",
@@ -469,7 +469,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 27,
+        "pk": 155,
         "fields": {
             "name": "Bonaire, Sint Eustatius and Saba",
             "iso3": "BES",
@@ -901,7 +901,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 51,
+        "pk": 52,
         "fields": {
             "name": "Cook Islands",
             "iso3": "COK",
@@ -919,7 +919,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 52,
+        "pk": 53,
         "fields": {
             "name": "Costa Rica",
             "iso3": "CRI",
@@ -937,7 +937,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 53,
+        "pk": 54,
         "fields": {
             "name": "Cote D'Ivoire (Ivory Coast)",
             "iso3": "CIV",
@@ -955,7 +955,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 54,
+        "pk": 55,
         "fields": {
             "name": "Croatia",
             "iso3": "HRV",
@@ -973,7 +973,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 55,
+        "pk": 56,
         "fields": {
             "name": "Cuba",
             "iso3": "CUB",
@@ -991,7 +991,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 56,
+        "pk": 249,
         "fields": {
             "name": "Cura\u00e7ao",
             "iso3": "CUW",
@@ -1045,7 +1045,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 59,
+        "pk": 51,
         "fields": {
             "name": "Democratic Republic of the Congo",
             "iso3": "COD",
@@ -1063,7 +1063,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 60,
+        "pk": 59,
         "fields": {
             "name": "Denmark",
             "iso3": "DNK",
@@ -1081,7 +1081,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 61,
+        "pk": 60,
         "fields": {
             "name": "Djibouti",
             "iso3": "DJI",
@@ -1099,7 +1099,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 62,
+        "pk": 61,
         "fields": {
             "name": "Dominica",
             "iso3": "DMA",
@@ -1117,7 +1117,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 63,
+        "pk": 62,
         "fields": {
             "name": "Dominican Republic",
             "iso3": "DOM",
@@ -1135,7 +1135,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 64,
+        "pk": 63,
         "fields": {
             "name": "East Timor",
             "iso3": "TLS",
@@ -1153,7 +1153,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 65,
+        "pk": 64,
         "fields": {
             "name": "Ecuador",
             "iso3": "ECU",
@@ -1171,7 +1171,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 66,
+        "pk": 65,
         "fields": {
             "name": "Egypt",
             "iso3": "EGY",
@@ -1189,7 +1189,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 67,
+        "pk": 66,
         "fields": {
             "name": "El Salvador",
             "iso3": "SLV",
@@ -1207,7 +1207,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 68,
+        "pk": 67,
         "fields": {
             "name": "Equatorial Guinea",
             "iso3": "GNQ",
@@ -1225,7 +1225,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 69,
+        "pk": 68,
         "fields": {
             "name": "Eritrea",
             "iso3": "ERI",
@@ -1243,7 +1243,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 70,
+        "pk": 69,
         "fields": {
             "name": "Estonia",
             "iso3": "EST",
@@ -1261,7 +1261,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 71,
+        "pk": 70,
         "fields": {
             "name": "Ethiopia",
             "iso3": "ETH",
@@ -1279,7 +1279,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 72,
+        "pk": 71,
         "fields": {
             "name": "Falkland Islands",
             "iso3": "FLK",
@@ -1297,7 +1297,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 73,
+        "pk": 72,
         "fields": {
             "name": "Faroe Islands",
             "iso3": "FRO",
@@ -1315,7 +1315,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 74,
+        "pk": 73,
         "fields": {
             "name": "Fiji Islands",
             "iso3": "FJI",
@@ -1333,7 +1333,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 75,
+        "pk": 74,
         "fields": {
             "name": "Finland",
             "iso3": "FIN",
@@ -1351,7 +1351,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 76,
+        "pk": 75,
         "fields": {
             "name": "France",
             "iso3": "FRA",
@@ -1369,7 +1369,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 77,
+        "pk": 76,
         "fields": {
             "name": "French Guiana",
             "iso3": "GUF",
@@ -1387,7 +1387,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 78,
+        "pk": 77,
         "fields": {
             "name": "French Polynesia",
             "iso3": "PYF",
@@ -1405,7 +1405,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 79,
+        "pk": 78,
         "fields": {
             "name": "French Southern Territories",
             "iso3": "ATF",
@@ -1423,7 +1423,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 80,
+        "pk": 79,
         "fields": {
             "name": "Gabon",
             "iso3": "GAB",
@@ -1441,7 +1441,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 81,
+        "pk": 80,
         "fields": {
             "name": "Gambia The",
             "iso3": "GMB",
@@ -1459,7 +1459,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 82,
+        "pk": 81,
         "fields": {
             "name": "Georgia",
             "iso3": "GEO",
@@ -1477,7 +1477,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 83,
+        "pk": 82,
         "fields": {
             "name": "Germany",
             "iso3": "DEU",
@@ -1495,7 +1495,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 84,
+        "pk": 83,
         "fields": {
             "name": "Ghana",
             "iso3": "GHA",
@@ -1513,7 +1513,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 85,
+        "pk": 84,
         "fields": {
             "name": "Gibraltar",
             "iso3": "GIB",
@@ -1531,7 +1531,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 86,
+        "pk": 85,
         "fields": {
             "name": "Greece",
             "iso3": "GRC",
@@ -1549,7 +1549,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 87,
+        "pk": 86,
         "fields": {
             "name": "Greenland",
             "iso3": "GRL",
@@ -1567,7 +1567,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 88,
+        "pk": 87,
         "fields": {
             "name": "Grenada",
             "iso3": "GRD",
@@ -1585,7 +1585,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 89,
+        "pk": 88,
         "fields": {
             "name": "Guadeloupe",
             "iso3": "GLP",
@@ -1603,7 +1603,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 90,
+        "pk": 89,
         "fields": {
             "name": "Guam",
             "iso3": "GUM",
@@ -1621,7 +1621,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 91,
+        "pk": 90,
         "fields": {
             "name": "Guatemala",
             "iso3": "GTM",
@@ -1639,7 +1639,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 92,
+        "pk": 91,
         "fields": {
             "name": "Guernsey and Alderney",
             "iso3": "GGY",
@@ -1657,7 +1657,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 93,
+        "pk": 92,
         "fields": {
             "name": "Guinea",
             "iso3": "GIN",
@@ -1675,7 +1675,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 94,
+        "pk": 93,
         "fields": {
             "name": "Guinea-Bissau",
             "iso3": "GNB",
@@ -1693,7 +1693,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 95,
+        "pk": 94,
         "fields": {
             "name": "Guyana",
             "iso3": "GUY",
@@ -1711,7 +1711,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 96,
+        "pk": 95,
         "fields": {
             "name": "Haiti",
             "iso3": "HTI",
@@ -1729,7 +1729,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 97,
+        "pk": 96,
         "fields": {
             "name": "Heard Island and McDonald Islands",
             "iso3": "HMD",
@@ -1747,7 +1747,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 98,
+        "pk": 97,
         "fields": {
             "name": "Honduras",
             "iso3": "HND",
@@ -1765,7 +1765,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 99,
+        "pk": 98,
         "fields": {
             "name": "Hong Kong S.A.R.",
             "iso3": "HKG",
@@ -1783,7 +1783,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 100,
+        "pk": 99,
         "fields": {
             "name": "Hungary",
             "iso3": "HUN",
@@ -1801,7 +1801,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 101,
+        "pk": 100,
         "fields": {
             "name": "Iceland",
             "iso3": "ISL",
@@ -1819,7 +1819,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 102,
+        "pk": 101,
         "fields": {
             "name": "India",
             "iso3": "IND",
@@ -1837,7 +1837,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 103,
+        "pk": 102,
         "fields": {
             "name": "Indonesia",
             "iso3": "IDN",
@@ -1855,7 +1855,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 104,
+        "pk": 103,
         "fields": {
             "name": "Iran",
             "iso3": "IRN",
@@ -1873,7 +1873,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 105,
+        "pk": 104,
         "fields": {
             "name": "Iraq",
             "iso3": "IRQ",
@@ -1891,7 +1891,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 106,
+        "pk": 105,
         "fields": {
             "name": "Ireland",
             "iso3": "IRL",
@@ -1909,7 +1909,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 107,
+        "pk": 106,
         "fields": {
             "name": "Israel",
             "iso3": "ISR",
@@ -1927,7 +1927,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 108,
+        "pk": 107,
         "fields": {
             "name": "Italy",
             "iso3": "ITA",
@@ -1945,7 +1945,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 109,
+        "pk": 108,
         "fields": {
             "name": "Jamaica",
             "iso3": "JAM",
@@ -1963,7 +1963,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 110,
+        "pk": 109,
         "fields": {
             "name": "Japan",
             "iso3": "JPN",
@@ -1981,7 +1981,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 111,
+        "pk": 110,
         "fields": {
             "name": "Jersey",
             "iso3": "JEY",
@@ -1999,7 +1999,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 112,
+        "pk": 111,
         "fields": {
             "name": "Jordan",
             "iso3": "JOR",
@@ -2017,7 +2017,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 113,
+        "pk": 112,
         "fields": {
             "name": "Kazakhstan",
             "iso3": "KAZ",
@@ -2035,7 +2035,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 114,
+        "pk": 113,
         "fields": {
             "name": "Kenya",
             "iso3": "KEN",
@@ -2053,7 +2053,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 115,
+        "pk": 114,
         "fields": {
             "name": "Kiribati",
             "iso3": "KIR",
@@ -2071,7 +2071,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 116,
+        "pk": 248,
         "fields": {
             "name": "Kosovo",
             "iso3": "XKX",
@@ -2773,7 +2773,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 155,
+        "pk": 156,
         "fields": {
             "name": "Netherlands",
             "iso3": "NLD",
@@ -2791,7 +2791,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 156,
+        "pk": 157,
         "fields": {
             "name": "New Caledonia",
             "iso3": "NCL",
@@ -2809,7 +2809,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 157,
+        "pk": 158,
         "fields": {
             "name": "New Zealand",
             "iso3": "NZL",
@@ -2827,7 +2827,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 158,
+        "pk": 159,
         "fields": {
             "name": "Nicaragua",
             "iso3": "NIC",
@@ -2845,7 +2845,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 159,
+        "pk": 160,
         "fields": {
             "name": "Niger",
             "iso3": "NER",
@@ -2863,7 +2863,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 160,
+        "pk": 161,
         "fields": {
             "name": "Nigeria",
             "iso3": "NGA",
@@ -2881,7 +2881,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 161,
+        "pk": 162,
         "fields": {
             "name": "Niue",
             "iso3": "NIU",
@@ -2899,7 +2899,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 162,
+        "pk": 163,
         "fields": {
             "name": "Norfolk Island",
             "iso3": "NFK",
@@ -2917,7 +2917,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 163,
+        "pk": 115,
         "fields": {
             "name": "North Korea",
             "iso3": "PRK",
@@ -3583,7 +3583,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 200,
+        "pk": 250,
         "fields": {
             "name": "Sint Maarten (Dutch part)",
             "iso3": "SXM",
@@ -3601,7 +3601,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 201,
+        "pk": 200,
         "fields": {
             "name": "Slovakia",
             "iso3": "SVK",
@@ -3619,7 +3619,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 202,
+        "pk": 201,
         "fields": {
             "name": "Slovenia",
             "iso3": "SVN",
@@ -3637,7 +3637,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 203,
+        "pk": 202,
         "fields": {
             "name": "Solomon Islands",
             "iso3": "SLB",
@@ -3655,7 +3655,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 204,
+        "pk": 203,
         "fields": {
             "name": "Somalia",
             "iso3": "SOM",
@@ -3673,7 +3673,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 205,
+        "pk": 204,
         "fields": {
             "name": "South Africa",
             "iso3": "ZAF",
@@ -3691,7 +3691,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 206,
+        "pk": 205,
         "fields": {
             "name": "South Georgia",
             "iso3": "SGS",
@@ -3709,7 +3709,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 207,
+        "pk": 116,
         "fields": {
             "name": "South Korea",
             "iso3": "KOR",
@@ -3727,7 +3727,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 208,
+        "pk": 206,
         "fields": {
             "name": "South Sudan",
             "iso3": "SSD",
@@ -3745,7 +3745,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 209,
+        "pk": 207,
         "fields": {
             "name": "Spain",
             "iso3": "ESP",
@@ -3763,7 +3763,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 210,
+        "pk": 208,
         "fields": {
             "name": "Sri Lanka",
             "iso3": "LKA",
@@ -3781,7 +3781,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 211,
+        "pk": 209,
         "fields": {
             "name": "Sudan",
             "iso3": "SDN",
@@ -3799,7 +3799,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 212,
+        "pk": 210,
         "fields": {
             "name": "Suriname",
             "iso3": "SUR",
@@ -3817,7 +3817,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 213,
+        "pk": 211,
         "fields": {
             "name": "Svalbard And Jan Mayen Islands",
             "iso3": "SJM",
@@ -3835,7 +3835,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 214,
+        "pk": 212,
         "fields": {
             "name": "Swaziland",
             "iso3": "SWZ",
@@ -3853,7 +3853,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 215,
+        "pk": 213,
         "fields": {
             "name": "Sweden",
             "iso3": "SWE",
@@ -3871,7 +3871,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 216,
+        "pk": 214,
         "fields": {
             "name": "Switzerland",
             "iso3": "CHE",
@@ -3889,7 +3889,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 217,
+        "pk": 215,
         "fields": {
             "name": "Syria",
             "iso3": "SYR",
@@ -3907,7 +3907,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 218,
+        "pk": 216,
         "fields": {
             "name": "Taiwan",
             "iso3": "TWN",
@@ -3925,7 +3925,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 219,
+        "pk": 217,
         "fields": {
             "name": "Tajikistan",
             "iso3": "TJK",
@@ -3943,7 +3943,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 220,
+        "pk": 218,
         "fields": {
             "name": "Tanzania",
             "iso3": "TZA",
@@ -3961,7 +3961,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 221,
+        "pk": 219,
         "fields": {
             "name": "Thailand",
             "iso3": "THA",
@@ -3979,7 +3979,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 222,
+        "pk": 17,
         "fields": {
             "name": "The Bahamas",
             "iso3": "BHS",
@@ -3997,7 +3997,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 223,
+        "pk": 220,
         "fields": {
             "name": "Togo",
             "iso3": "TGO",
@@ -4015,7 +4015,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 224,
+        "pk": 221,
         "fields": {
             "name": "Tokelau",
             "iso3": "TKL",
@@ -4033,7 +4033,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 225,
+        "pk": 222,
         "fields": {
             "name": "Tonga",
             "iso3": "TON",
@@ -4051,7 +4051,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 226,
+        "pk": 223,
         "fields": {
             "name": "Trinidad And Tobago",
             "iso3": "TTO",
@@ -4069,7 +4069,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 227,
+        "pk": 224,
         "fields": {
             "name": "Tunisia",
             "iso3": "TUN",
@@ -4087,7 +4087,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 228,
+        "pk": 225,
         "fields": {
             "name": "Turkey",
             "iso3": "TUR",
@@ -4105,7 +4105,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 229,
+        "pk": 226,
         "fields": {
             "name": "Turkmenistan",
             "iso3": "TKM",
@@ -4123,7 +4123,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 230,
+        "pk": 227,
         "fields": {
             "name": "Turks And Caicos Islands",
             "iso3": "TCA",
@@ -4141,7 +4141,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 231,
+        "pk": 228,
         "fields": {
             "name": "Tuvalu",
             "iso3": "TUV",
@@ -4159,7 +4159,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 232,
+        "pk": 229,
         "fields": {
             "name": "Uganda",
             "iso3": "UGA",
@@ -4177,7 +4177,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 233,
+        "pk": 230,
         "fields": {
             "name": "Ukraine",
             "iso3": "UKR",
@@ -4195,7 +4195,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 234,
+        "pk": 231,
         "fields": {
             "name": "United Arab Emirates",
             "iso3": "ARE",
@@ -4213,7 +4213,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 235,
+        "pk": 232,
         "fields": {
             "name": "United Kingdom",
             "iso3": "GBR",
@@ -4231,7 +4231,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 236,
+        "pk": 233,
         "fields": {
             "name": "United States",
             "iso3": "USA",
@@ -4249,7 +4249,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 237,
+        "pk": 234,
         "fields": {
             "name": "United States Minor Outlying Islands",
             "iso3": "UMI",
@@ -4267,7 +4267,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 238,
+        "pk": 235,
         "fields": {
             "name": "Uruguay",
             "iso3": "URY",
@@ -4285,7 +4285,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 239,
+        "pk": 236,
         "fields": {
             "name": "Uzbekistan",
             "iso3": "UZB",
@@ -4303,7 +4303,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 240,
+        "pk": 237,
         "fields": {
             "name": "Vanuatu",
             "iso3": "VUT",
@@ -4321,7 +4321,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 241,
+        "pk": 238,
         "fields": {
             "name": "Vatican City State (Holy See)",
             "iso3": "VAT",
@@ -4339,7 +4339,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 242,
+        "pk": 239,
         "fields": {
             "name": "Venezuela",
             "iso3": "VEN",
@@ -4357,7 +4357,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 243,
+        "pk": 240,
         "fields": {
             "name": "Vietnam",
             "iso3": "VNM",
@@ -4375,7 +4375,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 244,
+        "pk": 241,
         "fields": {
             "name": "Virgin Islands (British)",
             "iso3": "VGB",
@@ -4393,7 +4393,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 245,
+        "pk": 242,
         "fields": {
             "name": "Virgin Islands (US)",
             "iso3": "VIR",
@@ -4411,7 +4411,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 246,
+        "pk": 243,
         "fields": {
             "name": "Wallis And Futuna Islands",
             "iso3": "WLF",
@@ -4429,7 +4429,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 247,
+        "pk": 244,
         "fields": {
             "name": "Western Sahara",
             "iso3": "ESH",
@@ -4447,7 +4447,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 248,
+        "pk": 245,
         "fields": {
             "name": "Yemen",
             "iso3": "YEM",
@@ -4465,7 +4465,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 249,
+        "pk": 246,
         "fields": {
             "name": "Zambia",
             "iso3": "ZMB",
@@ -4483,7 +4483,7 @@
     },
     {
         "model": "geodata.Country",
-        "pk": 250,
+        "pk": 247,
         "fields": {
             "name": "Zimbabwe",
             "iso3": "ZWE",
