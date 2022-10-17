@@ -1,0 +1,398 @@
+[
+    {
+        "model": "geodata.State",
+        "pk": 4023,
+        "fields": {
+            "name": "Andaman and Nicobar Islands",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "11.74008670",
+            "longitude": "92.65864010"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4017,
+        "fields": {
+            "name": "Andhra Pradesh",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "15.91289980",
+            "longitude": "79.73998750"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4024,
+        "fields": {
+            "name": "Arunachal Pradesh",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "28.21799940",
+            "longitude": "94.72775280"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4027,
+        "fields": {
+            "name": "Assam",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "26.20060430",
+            "longitude": "92.93757390"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4037,
+        "fields": {
+            "name": "Bihar",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "25.09607420",
+            "longitude": "85.31311940"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4031,
+        "fields": {
+            "name": "Chandigarh",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "30.73331480",
+            "longitude": "76.77941790"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4040,
+        "fields": {
+            "name": "Chhattisgarh",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "21.27865670",
+            "longitude": "81.86614420"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4033,
+        "fields": {
+            "name": "Dadra and Nagar Haveli and Daman and Diu",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "20.39737360",
+            "longitude": "72.83279910"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4021,
+        "fields": {
+            "name": "Delhi",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "28.70405920",
+            "longitude": "77.10249020"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4009,
+        "fields": {
+            "name": "Goa",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "15.29932650",
+            "longitude": "74.12399600"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4030,
+        "fields": {
+            "name": "Gujarat",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "22.25865200",
+            "longitude": "71.19238050"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4007,
+        "fields": {
+            "name": "Haryana",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "29.05877570",
+            "longitude": "76.08560100"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4020,
+        "fields": {
+            "name": "Himachal Pradesh",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "31.10482940",
+            "longitude": "77.17339010"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4029,
+        "fields": {
+            "name": "Jammu and Kashmir",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "33.27783900",
+            "longitude": "75.34121790"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4025,
+        "fields": {
+            "name": "Jharkhand",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "23.61018080",
+            "longitude": "85.27993540"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4026,
+        "fields": {
+            "name": "Karnataka",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "15.31727750",
+            "longitude": "75.71388840"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4028,
+        "fields": {
+            "name": "Kerala",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "10.85051590",
+            "longitude": "76.27108330"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4852,
+        "fields": {
+            "name": "Ladakh",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "34.22684750",
+            "longitude": "77.56194190"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4019,
+        "fields": {
+            "name": "Lakshadweep",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "10.32802650",
+            "longitude": "72.78463360"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4039,
+        "fields": {
+            "name": "Madhya Pradesh",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "22.97342290",
+            "longitude": "78.65689420"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4008,
+        "fields": {
+            "name": "Maharashtra",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "19.75147980",
+            "longitude": "75.71388840"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4010,
+        "fields": {
+            "name": "Manipur",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "24.66371730",
+            "longitude": "93.90626880"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4006,
+        "fields": {
+            "name": "Meghalaya",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "25.46703080",
+            "longitude": "91.36621600"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4036,
+        "fields": {
+            "name": "Mizoram",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "23.16454300",
+            "longitude": "92.93757390"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4018,
+        "fields": {
+            "name": "Nagaland",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "26.15843540",
+            "longitude": "94.56244260"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4013,
+        "fields": {
+            "name": "Odisha",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "20.95166580",
+            "longitude": "85.09852360"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4011,
+        "fields": {
+            "name": "Puducherry",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "11.94159150",
+            "longitude": "79.80831330"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4015,
+        "fields": {
+            "name": "Punjab",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "31.14713050",
+            "longitude": "75.34121790"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4014,
+        "fields": {
+            "name": "Rajasthan",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "27.02380360",
+            "longitude": "74.21793260"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4034,
+        "fields": {
+            "name": "Sikkim",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "27.53297180",
+            "longitude": "88.51221780"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4035,
+        "fields": {
+            "name": "Tamil Nadu",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "11.12712250",
+            "longitude": "78.65689420"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4012,
+        "fields": {
+            "name": "Telangana",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "18.11243720",
+            "longitude": "79.01929970"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4038,
+        "fields": {
+            "name": "Tripura",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "23.94084820",
+            "longitude": "91.98815270"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4022,
+        "fields": {
+            "name": "Uttar Pradesh",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "26.84670880",
+            "longitude": "80.94615920"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4016,
+        "fields": {
+            "name": "Uttarakhand",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "30.06675300",
+            "longitude": "79.01929970"
+        }
+    },
+    {
+        "model": "geodata.State",
+        "pk": 4853,
+        "fields": {
+            "name": "West Bengal",
+            "country_id": 101,
+            "country_code": "IN",
+            "latitude": "22.98675690",
+            "longitude": "87.85497550"
+        }
+    }
+]
